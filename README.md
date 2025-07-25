@@ -1,2 +1,2 @@
 # mcp-projects
-This repo contains projects related to MCP(model context protocol)
+This repo contains basic projects related to MCP(model context protocol)
